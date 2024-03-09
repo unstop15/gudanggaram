@@ -1,0 +1,10 @@
+- name: Socks5 (SNI)
+  type: socks5
+  server: SG2-sock.tcpvpn.com
+  port: 443
+  username: SG2-sock.tcpvpn.com
+  password: shadowsocksipSG@!^$^*
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  sni: open.spotify.com
